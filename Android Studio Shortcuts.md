@@ -18,6 +18,7 @@
 - Add Files to Git ```Ctrl``` + ```Alt``` + ```A```
 - Commit Files to Git ```Ctrl``` + ```K```
 - Jump to Declarations ```Ctrl``` + ```B```
+- select word ```Ctrl``` + ```w```
 
 ✔ Run Keys
 
